@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 33.33vh;
+}
+
+.btn{
+   display: inline-block;
+   width: 5vw;
+}
+
+input[type="number"]{
+    height: 12vh;
+    width: 20vh;
+    text-align: center;
+    
+    font-size: xxx-large;
+    font-style: italic;
+    color:darkblue;
+    border-width: thick;
+}
